@@ -1,0 +1,2 @@
+(self.webpackChunkblogsite=self.webpackChunkblogsite||[]).push([[218],{938:function(e,t,l){"use strict";l.r(t);var n=l(294);t.default=function(){return n.createElement("div",null,n.createElement("h1",null,"404 Error page"))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-9a940e40987cdf9f65ff.js.map

@@ -2,8 +2,8 @@ import React from "react"
 
 export default () => {
   return (
-    <main>
-      <h1>Index page</h1>
-    </main>
-  );
+    <div>
+      <h1>404 Error page</h1>
+    </div>
+  )
 }

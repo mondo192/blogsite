@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://blogsite/./src/pages/index.tsx"],"names":[],"mappings":"4HAEA,qBACE,OACE,4BACE","file":"component---src-pages-index-tsx-d16e6f119c19e8145cf0.js","sourcesContent":["import React from \"react\"\n\nexport default () => {\n  return (\n    <main>\n      <h1>Index page</h1>\n    </main>\n  );\n}"],"sourceRoot":""}
