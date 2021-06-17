@@ -1,0 +1,22 @@
+{
+  "name": "blogsite",
+  "version": "1.0.0",
+  "description": "My personal blog made with GatsbyJS",
+  "main": "index.tsx",
+  "repository": "git@github.com:mondo192/blogsite.git",
+  "author": "Eamonn Keogh",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^3.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
